@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<package unique-identifier='pub-id' version='3.0' xml:lang='en' xmlns='http://www.idpf.org/2007/opf'>
+  <metadata xmlns:dc='http://purl.org/dc/elements/1.1/'>
+    <dc:title id='title'>Roman Architexture</dc:title>
+    <meta property='title-type' refines='#title'>main</meta>
+    <dc:creator id='creator'>Nick Geller</dc:creator>
+    <meta property='file-as' refines='#creator'>Geller, Nick</meta>
+    <meta property='role' refines='#creator' scheme='marc:relators'>aut</meta>
+    <dc:identifier id='pub-id'>Test ebook</dc:identifier>
+    <dc:description>Nick's Dissertation</dc:description>
+    <dc:publisher>University of Michigan</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:rights>© 2015 Nick Geller</dc:rights>
+    <meta property='dcterms:modified'>2016-10-06T15:59:15Z</meta>
+  </metadata>
+  <manifest>
+    <item href='assets/images/arapacis.jpg' id='img_0' media-type='image/jpeg'></item>
+    <item href='assets/images/arlescolisseum.jpg' id='img_1' media-type='image/jpeg'></item>
+    <item href='assets/images/bresciatemple.jpg' id='img_2' media-type='image/jpeg'></item>
+    <item href='assets/images/laturbie.jpg' id='img_3' media-type='image/jpeg'></item>
+    <item href='assets/images/nimestemple.jpg' id='img_4' media-type='image/jpeg'></item>
+    <item href='assets/images/ProfilePicture.jpg' id='img_5' media-type='image/jpeg'></item>
+    <item href='assets/images/ProfilePicture.tiff' id='img_6' media-type='image/tiff'></item>
+    <item href='assets/images/riminiarch.jpg' id='img_7' media-type='image/jpeg'></item>
+    <item href='assets/fonts/merriweather-bold.otf' id='merriweather-bold.otf' media-type='application/x-font-otf'></item>
+    <item href='assets/fonts/merriweather-italic.otf' id='merriweather-italic.otf' media-type='application/x-font-otf'></item>
+    <item href='assets/fonts/merriweather-regular.otf' id='merriweather-regular.otf' media-type='application/x-font-otf'></item>
+    <item href='assets/fonts/sourcesanspro-bold.otf' id='sourcesanspro-bold.otf' media-type='application/x-font-otf'></item>
+    <item href='assets/fonts/sourcesanspro-italic.otf' id='sourcesanspro-italic.otf' media-type='application/x-font-otf'></item>
+    <item href='assets/fonts/sourcesanspro-regular.otf' id='sourcesanspro-regular.otf' media-type='application/x-font-otf'></item>
+    <item href='cover.xhtml' id='coverpage' media-type='application/xhtml+xml'></item>
+    <item href='toc.xhtml' id='toc' media-type='application/xhtml+xml' properties='nav'></item>
+    <item href='roman-architexture.xhtml' id='c0' media-type='application/xhtml+xml'></item>
+    <item href='abstract.xhtml' id='c1' media-type='application/xhtml+xml'></item>
+    <item href='chapter-1--introduction.xhtml' id='c2' media-type='application/xhtml+xml'></item>
+    <item href='chapter-2--reading-rome-architecturally.xhtml' id='c3' media-type='application/xhtml+xml'></item>
+    <item href='chapter-3--horaces-lyric--em-monumentum-em-.xhtml' id='c4' media-type='application/xhtml+xml'></item>
+    <item href='chapter-4--the-cracks-in-vergils-epic-architexture-i.xhtml' id='c5' media-type='application/xhtml+xml'></item>
+    <item href='chapter-5--the-cracks-in-vergils-epic-architexture-ii.xhtml' id='c6' media-type='application/xhtml+xml'></item>
+    <item href='chapter-6--the-end-s--of-architexture.xhtml' id='c7' media-type='application/xhtml+xml'></item>
+    <item href='chapter-7--conclusion.xhtml' id='c8' media-type='application/xhtml+xml'></item>
+    <item href='bibliography.xhtml' id='c9' media-type='application/xhtml+xml'></item>
+    <item href='assets/stylesheets/epub.css' id='epub.css' media-type='text/css'></item>
+    <item href='toc.ncx' id='toc.ncx' media-type='application/x-dtbncx+xml'></item>
+  </manifest>
+  <spine toc='toc.ncx'>
+    <itemref idref='coverpage' />
+    <itemref idref='toc' />
+    <itemref idref='c0' />
+    <itemref idref='c1' />
+    <itemref idref='c2' />
+    <itemref idref='c3' />
+    <itemref idref='c4' />
+    <itemref idref='c5' />
+    <itemref idref='c6' />
+    <itemref idref='c7' />
+    <itemref idref='c8' />
+    <itemref idref='c9' />
+  </spine>
+</package>

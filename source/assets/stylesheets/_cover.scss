@@ -1,0 +1,34 @@
+.cover {
+  @include display(flex);
+  @include flex-direction(column);
+  @include justify-content(center);
+
+  background-image: url(image-path("arapacis.jpg"));
+  background-color: tint($light-gray, 30%);
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+  margin-bottom: $base-spacing;
+  padding: $small-spacing;
+
+  .cover-title {
+    text-align: center;
+    font-size: 5em;
+    font-weight: 700;
+    color: #faebd7;
+    text-shadow: 5px 5px 5px #000;
+  }
+
+  .cover-subtitle {
+    text-align: center;
+    font-size: 4em;
+    font-weight: 700;
+    color: #faebd7;
+    text-shadow: 5px 5px 5px #000;
+  }
+
+  .page-title,
+  .page-author {
+    text-align: center;
+  }
+}

@@ -1,0 +1,34 @@
+---
+title:
+  main: "Roman Architexture"
+  subtitle: "The Idea of the Monument in the Poetic Imagination of the Augustan Age"
+  short: "Roman Architexture"
+pub_date: 2015-05-01
+creator:
+  - name: Nick Geller
+    first_name: Nick
+    last_name: Geller
+    role: aut
+    file_as: Geller, Nick
+author_as_it_appears:
+  - Nick Geller
+publisher: University of Michigan
+editions:
+  - name: Online
+    type: InteractiveResource
+    format: text/html
+    link: http://www.getty.edu/publications/intrometadata
+    additional_description:
+  - name: PDF (1.2 MB)
+    type: PhyiscalObject
+    format: PDF
+    pages: 228
+    link: https://deepblue.lib.umich.edu/bitstream/handle/2027.42/111470/ngeller_1.pdf?sequence=1&isAllowed=y
+description: "Nick's Dissertation"
+subjects:
+  - subject__dissertation
+rights: >-
+  © 2015 Nick Geller
+languages:
+  - en
+pub_id: Test ebook

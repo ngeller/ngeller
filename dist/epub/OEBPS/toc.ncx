@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<ncx version='2005-1' xml:lang='en' xmlns='http://www.daisy.org/z3986/2005/ncx/'>
+  <head>
+    <meta content='Test ebook' name='dtb:uid' />
+  </head>
+  <docTitle>
+    <text>Roman Architexture</text>
+  </docTitle>
+  <navMap>
+    <navPoint id='coverpage' playOrder='0'>
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src='cover.xhtml'></content>
+    </navPoint>
+    <navPoint id='toc' playOrder='1'>
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src='toc.xhtml'></content>
+    </navPoint>
+    <navPoint id='np_0' playOrder='2'>
+      <navLabel>
+        <text>Roman Architexture</text>
+      </navLabel>
+      <content src='roman-architexture.xhtml'></content>
+    </navPoint>
+    <navPoint id='np_1' playOrder='3'>
+      <navLabel>
+        <text>Abstract</text>
+      </navLabel>
+      <content src='abstract.xhtml'></content>
+    </navPoint>
+    <navPoint id='np_2' playOrder='4'>
+      <navLabel>
+        <text>Chapter 1. Introduction</text>
+      </navLabel>
+      <content src='chapter-1--introduction.xhtml'></content>
+    </navPoint>
+    <navPoint id='np_3' playOrder='5'>
+      <navLabel>
+        <text>Chapter 2. Reading Rome Architecturally</text>
+      </navLabel>
+      <content src='chapter-2--reading-rome-architecturally.xhtml'></content>
+    </navPoint>
+    <navPoint id='np_4' playOrder='6'>
+      <navLabel>
+        <text>Chapter 3. Horace’s Lyric <em>Monumentum</em></text>
+      </navLabel>
+      <content src='chapter-3--horaces-lyric--em-monumentum-em-.xhtml'></content>
+    </navPoint>
+    <navPoint id='np_5' playOrder='7'>
+      <navLabel>
+        <text>Chapter 4. The Cracks in Vergil’s Epic Architexture I</text>
+      </navLabel>
+      <content src='chapter-4--the-cracks-in-vergils-epic-architexture-i.xhtml'></content>
+    </navPoint>
+    <navPoint id='np_6' playOrder='8'>
+      <navLabel>
+        <text>Chapter 5. The Cracks in Vergil’s Epic Architexture II</text>
+      </navLabel>
+      <content src='chapter-5--the-cracks-in-vergils-epic-architexture-ii.xhtml'></content>
+    </navPoint>
+    <navPoint id='np_7' playOrder='9'>
+      <navLabel>
+        <text>Chapter 6. The End(s) of Architexture</text>
+      </navLabel>
+      <content src='chapter-6--the-end-s--of-architexture.xhtml'></content>
+    </navPoint>
+    <navPoint id='np_8' playOrder='10'>
+      <navLabel>
+        <text>Chapter 7. Conclusion</text>
+      </navLabel>
+      <content src='chapter-7--conclusion.xhtml'></content>
+    </navPoint>
+    <navPoint id='np_9' playOrder='11'>
+      <navLabel>
+        <text>Bibliography</text>
+      </navLabel>
+      <content src='bibliography.xhtml'></content>
+    </navPoint>
+  </navMap>
+</ncx>
