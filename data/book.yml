@@ -28,7 +28,7 @@ editions:
     type: PhyiscalObject
     format: PDF
     pages: 266
-    link: https://ngeller.github.io/ngeller/assets/downloads/book.pdf
+    link: https://ngeller.github.io/ngeller/dist/book.pdf
 description: "Nick's Dissertation"
 subjects:
   - subject__dissertation
