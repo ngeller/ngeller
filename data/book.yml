@@ -17,13 +17,18 @@ editions:
   - name: Online
     type: InteractiveResource
     format: text/html
-    link: http://www.getty.edu/publications/intrometadata
+    link: https://ngeller.github.io/ngeller/
     additional_description:
-  - name: PDF (1.2 MB)
+  - name: PDF of Text (1.2 MB)
     type: PhyiscalObject
     format: PDF
     pages: 228
     link: https://deepblue.lib.umich.edu/bitstream/handle/2027.42/111470/ngeller_1.pdf?sequence=1&isAllowed=y
+  - name: PDF of Digital Publication (20.0 MB)
+    type: PhyiscalObject
+    format: PDF
+    pages: 266
+    link: https://ngeller.github.io/ngeller/assets/downloads/book.pdf
 description: "Nick's Dissertation"
 subjects:
   - subject__dissertation
