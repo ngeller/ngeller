@@ -19,16 +19,21 @@ editions:
     format: text/html
     link: https://ngeller.github.io/ngeller/
     additional_description:
-  - name: PDF of Text (1.2 MB)
+  - name: PDF OF Text (1.2 MB)
     type: PhyiscalObject
     format: PDF
     pages: 228
     link: https://deepblue.lib.umich.edu/bitstream/handle/2027.42/111470/ngeller_1.pdf?sequence=1&isAllowed=y
-  - name: PDF of Digital Publication (20.0 MB)
+  - name: PDF OF DIGITAL PUBLICATION (20.0 MB)
     type: PhyiscalObject
-    format: PDF
+    format: PDF 2
     pages: 266
-    link: https://ngeller.github.io/ngeller/dist/book.pdf
+    link: https://github.com/ngeller/ngeller/raw/master/dist/book.pdf
+  - name: EPUB (27.5 MB)
+    type: PhyiscalObject
+    format: epub
+    pages: 739
+    link: https://github.com/ngeller/ngeller/raw/master/dist/book.epub
 description: "Nick's Dissertation"
 subjects:
   - subject__dissertation
